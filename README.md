@@ -12,6 +12,7 @@ Essential accessories for overall success with thingino
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |
 |----|---------------|---------|--------|---------|
 | [7](#chargers)  | Anker USB Power Supply | ![Item Photo](https://m.media-amazon.com/images/I/31hEyUKsNNL._AC_SR38,50_.jpg) | [Amazon](https://amzn.to/4djzgTT) | Dual port, Max 2.4A per port.  **Note: Power Supply issues are the no. 1 reason of camera glitches!** |
+| [10](#chargers)  | POE Texas In-Wall USB-C Power Supply | ![Item Photo](https://m.media-amazon.com/images/I/31loL1KBvjL._AC_US40_.jpg) | [Amazon](https://amzn.to/48CGul4) | USB-C, supports Power Deliviery.  Used inside a junction or wall box. |
 
 ### Networking
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |

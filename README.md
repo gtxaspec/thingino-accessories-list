@@ -1,6 +1,6 @@
 # thingino-accessories-list
 
-Essential accessories for overall success with thingino
+Essential accessories for overall success with thingino.  Geared towards users in North America for speedy delivery.
 
 ### Cables
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |
@@ -28,5 +28,10 @@ Essential accessories for overall success with thingino
 ### Connectors
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |
 |----|---------------|---------|--------|---------|
-| [5](#connectors)  | Micro USB to OTG Adapter | ![Item Photo](https://m.media-amazon.com/images/I/41YVqCThO+L._AC_US40_.jpg) | [Amazon](https://amzn.to/3XxTCCW) | Recommended with #[1](#networking) if you have connectivity issues. Compatible with #[3](#networking), #[4](#networking) |
+| [5](#connectors)  | 2 Pack Micro USB to OTG Adapter | ![Item Photo](https://m.media-amazon.com/images/I/41YVqCThO+L._AC_US40_.jpg) | [Amazon](https://amzn.to/3XxTCCW) | Recommended with #[1](#networking) if you have connectivity issues. Compatible with #[3](#networking), #[4](#networking) |
 | [6](#connectors)  | USB Adapters Multi-Pack | ![Item Photo](https://m.media-amazon.com/images/I/41yN-jvYnwL._AC_US40_.jpg) | [Amazon](https://amzn.to/4ewQoX8) | Recommended for all, useful for converting between various cables and connectors |
+
+### Flash Memory
+| #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |
+|----|---------------|---------|--------|---------|
+| [13](#flash-memory)  | 10 Pack W25Q128 Flash Memory Chip | ![Item Photo](https://m.media-amazon.com/images/I/41rKfknjHrL._SX38_SY50_CR,0,0,38,50_.jpg) | [Amazon](https://amzn.to/3UCylY4) | W25Q128 16MB flash memory chip, use to repair bad chip or keep spares.  Requires removal from PCB board, cheaper to buy premade on PCB than to buy individually in North America. |

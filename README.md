@@ -8,11 +8,14 @@ Essential accessories for overall success with thingino
 | [8](#cables)  | USB A-A Male Cable | ![Item Photo](https://m.media-amazon.com/images/I/414IqOdgJoL._AC_US40_.jpg) | [Amazon](https://amzn.to/47HPIvP) | Useful for flashing Wyze V2 cameras|
 | [9](#cables)  | USB Micro 10ft Cable | ![Item Photo](https://m.media-amazon.com/images/I/41mvbinyoIL._AC_US40_.jpg) | [Amazon](https://amzn.to/40d9u0s) | Micro USB cable with known supported data transfer.  **Note: A reliable USB cable with known working data is required for successful flashing thingino!** |
 
-### Chargers
+### Power Supply
+**Note: Power Supply issues are the no. 1 cause of camera glitches!**
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |
 |----|---------------|---------|--------|---------|
-| [7](#chargers)  | Anker USB Power Supply | ![Item Photo](https://m.media-amazon.com/images/I/31hEyUKsNNL._AC_SR38,50_.jpg) | [Amazon](https://amzn.to/4djzgTT) | Dual port, Max 2.4A per port.  **Note: Power Supply issues are the no. 1 reason of camera glitches!** |
+| [7](#chargers)  | Anker USB Power Supply | ![Item Photo](https://m.media-amazon.com/images/I/31hEyUKsNNL._AC_SR38,50_.jpg) | [Amazon](https://amzn.to/4djzgTT) | Dual port, Max 2.4A per port. |
 | [10](#chargers)  | POE Texas In-Wall USB-C Power Supply | ![Item Photo](https://m.media-amazon.com/images/I/31loL1KBvjL._AC_US40_.jpg) | [Amazon](https://amzn.to/48CGul4) | USB-C, supports Power Deliviery.  Used inside a junction or wall box. |
+| [11](#chargers)  | POE to Micro-USB Adapter | ![Item Photo](https://m.media-amazon.com/images/I/31wFWpgAwuL._AC_US40_.jpg) | [Amazon](https://amzn.to/4fC6cZm) | Converts Power-Over-Ethernet to 5v Micro-USB suitable for USB micro devices.  **Note: this does NOT pass data, this is strictly for power, only.** |
+| [12](#chargers)  | POE to USB Type-C Adapter | ![Item Photo](https://m.media-amazon.com/images/I/31wFWpgAwuL._AC_US40_.jpg) | [Amazon](https://amzn.to/3NZcdDq) | Converts Power-Over-Ethernet to 5v USB Type-C suitable devices.  **Note: this does NOT pass data, this is strictly for power, only.** |
 
 ### Networking
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |

@@ -2,6 +2,9 @@
 
 Essential accessories for overall success with thingino.  Geared towards users in North America for speedy delivery.
 
+> [!NOTE]
+> The links below are part of the Amazon Associates program and may earn me a commission. As a developer, any income generated is used to fund the purchase of additional cameras and equipment to support the Thingino firmware project!
+
 ### Cables
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |
 |----|---------------|---------|--------|---------|

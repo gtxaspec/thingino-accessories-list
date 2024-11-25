@@ -38,3 +38,4 @@ Essential accessories for overall success with thingino.  Geared towards users i
 | #  | DESCRIPTION   | PHOTO   | LINK   | NOTES   |
 |----|---------------|---------|--------|---------|
 | [13](#flash-memory)  | 10 Pack W25Q128 Flash Memory Chip | ![Item Photo](https://m.media-amazon.com/images/I/41rKfknjHrL._SX38_SY50_CR,0,0,38,50_.jpg) | [Amazon](https://amzn.to/3UCylY4) | W25Q128 16MB flash memory chip, use to repair bad chip or keep spares.  Requires removal from PCB board, cheaper to buy premade on PCB than to buy individually in North America. |
+| [14](#flash-memory)  | 5 Pack W25Q128 Flash Memory Chip | ![Item Photo](https://m.media-amazon.com/images/I/41F3CNB05QL._AC_US40_.jpg) | [Amazon](https://amzn.to/415GRmE) | W25Q128 16MB flash memory chip, use to repair bad chip or keep spares.  Requires removal from PCB board, cheaper to buy premade on PCB than to buy individually in North America. |
